@@ -1,4 +1,4 @@
-# Datenanalyse und -management <img style="float:left;" src="images/smi-logo.png"/>
+<img style="float:left;" src="images/smi-logo.png"/> <h1>Datenanalyse und -management </h1>
 
 Dieses Repository enthält die aktuellen Jupyter-Notebooks zum Seminar.
 
