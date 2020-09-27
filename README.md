@@ -1,9 +1,8 @@
-<div>
-    <img style="float:right;" src="images/smi-logo.png"/>
-    <div style="float:left;color:#58288C;"><h1>Datenanalyse und Datenmanagement</h1></div>
-</div>
+# Datenanalyse und -management <img style="float:right;" src="images/smi-logo.png"/>
 
-Dieses Repository enthält die aktuellen Jupyter-Notebooks zur Einführung in 
+Dieses Repository enthält die aktuellen Jupyter-Notebooks zum Seminar.
+
+Themen: Einführung in 
 - Python
 - Datenmanagement (SQL, APIs)
 - Datenexploration (Pandas, Matplotlib, Seaborn)
