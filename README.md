@@ -1,7 +1,8 @@
-# Steinbeis School for Management and Innovation
-## Seminar Datenanalyse und Datenmanagement
+<img style="float:left;" src="images/smi-logo.png"/> <h1>Datenanalyse und -management </h1>
 
-Dieses Repository enthält die aktuellen Jupyter-Notebooks zur Einführung in 
+Dieses Repository enthält die aktuellen Jupyter-Notebooks zum Seminar.
+
+Themen: Einführung in 
 - Python
 - Datenmanagement (SQL, APIs)
 - Datenexploration (Pandas, Matplotlib, Seaborn)
