@@ -1,0 +1,10 @@
+pandas
+matplotlib
+seaborn
+mcpi
+ipython-sql
+PyMySQL
+SQLAlchemy
+ipympl
+scikit-learn
+lxml
