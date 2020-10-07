@@ -8,3 +8,4 @@ SQLAlchemy
 ipympl
 scikit-learn
 lxml
+PyQt5
